@@ -6,8 +6,11 @@ Experimenting with data wrangling, exploration, analytics and ML using python.
         Objective : Building a basic machine learning model using K - Nearest Neighbours to predict 
                     type of iris flower. 
                     Perform data exploration using various basic visualizations.
-  ##### 2. Abalone age prediction.ipynb 
-        a.  Title of Database: Abalone data
+  ##### 2. Abalone Dataset experimentation.ipynb 
+        Objective : Building a basic machine learning model regression to predict 
+                    age of abalone. 
+                    Perform data exploration using various basic visualizations.
+          1.  Title of Database: Abalone data
 
           2. Sources:
 

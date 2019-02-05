@@ -127,6 +127,7 @@ Experimenting with data wrangling, exploration, analytics and ML using python.
           8. Missing Attribute Values: None
           
   ##### 3. NER.ipynb
+          Objective : 
           1. Gaining an understanding of spaCy package's capabilities by analyzing books 
           listed in the Gutenburgh Project to observe Ziphy's law in natural language processing.
           2. Leveraging spaCy's named entity recognition to identify entities from more 

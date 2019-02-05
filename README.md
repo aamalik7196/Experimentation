@@ -2,9 +2,9 @@
 Experimenting with data wrangling, exploration, analytics and ML using python.
 
 ### Documents present :
-  ##### 1. Iris Dataset experimentation.ipynb
-  ##### 2. Abalone Dataset experimentation.ipynb 
-  ##### 3. NER.ipynb
+  ##### 1. Iris Dataset experimentation.ipynb [completed]
+  ##### 2. Abalone Dataset experimentation.ipynb [in progress]
+  ##### 3. NER.ipynb [completed]
   
   
   

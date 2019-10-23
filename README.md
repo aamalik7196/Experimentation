@@ -10,20 +10,21 @@ Experimenting with data wrangling, exploration, analytics and ML using python.
   
   
   ##### 1. Iris Dataset experimentation.ipynb
-        Objective : Building a basic machine learning model using K - Nearest Neighbours to predict 
-                    type of iris flower. 
-                    Perform data exploration using various basic visualizations.
+        Objective : 
+        Building a basic machine learning model using K - Nearest Neighbours to predict 
+        type of iris flower. Perform data exploration using various basic visualizations.
  
           
   ##### 2. NER.ipynb
           Objective : 
-          1. Gaining an understanding of spaCy package's capabilities by analyzing books 
-          listed in the Gutenburgh Project to observe Ziphy's law in natural language processing.
-          2. Leveraging spaCy's named entity recognition to identify entities from more 
-          than ten thousand newspaper articles  with the objective of calculating Pointwise Mutual Information.
-          3. PMI was used to determine association between recognized entities.
+          Gained an understanding of spaCy package's capabilities by analysing books listed in the 
+          Gutenberg Project to observe Ziphy's law in natural language processing.
+          Leveraging spaCy's named entity recognition for finding collocations and associations between
+          words from a text corpus; built using more than ten thousand newspaper articles. Used these 
+          associations to successfully map organization names to member countries.
           
  ##### 3. DSBD Project1.ipynb
+          Objective : 
           Experimented with data visualization techniques in Tableau as an exercise in understanding effective 
           communication strategies for presenting complex data sets and insights to business users.
           Providing compelling insights into factors that contributed positively and negatively towards the 
